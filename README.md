@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Devops
 - 🌱 I’m currently learning AWS
 
-![Image description here](https://raw.githubusercontent.com/BharathKumarS/BharathKumarS/master/Bharath-Img_Intro.gif "Welcome to my GitHub")
+![Image description here](https://raw.githubusercontent.com/Renil Sequeira/BharathKumarS/master/Bharath-Img_Intro.gif "Welcome to my GitHub")
 ## I'm an Aspiring Devops Engineer <br> - 🔭 I’m currently working on Devops <br>
 - 🌱 I’m currently learning AWS
 
