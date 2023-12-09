@@ -5,8 +5,6 @@
 - 🥅 2023 Goals: Learn more about Devops tools & technology.
 
 
-### Languages and Tools:
-
 
 
 🎯
