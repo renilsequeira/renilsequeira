@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning Kubernetes ☸️
-- 🥅 2023 Goals: Learn more about Devops tools & technology.
+- 🥅 2024 Goals: Learn more about Devops tools & technology.
 
 
 
